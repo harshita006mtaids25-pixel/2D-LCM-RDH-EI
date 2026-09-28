@@ -1,5 +1,4 @@
-# 2D-LCM-RDH-EI
-MATLAB implementation of reversible data hiding in encrypted images (RDH-EI) using a proposed 2D Lozi–Chebyshev chaotic map and Daubechies 5/3 integer wavelet transform.
+
 # 2D Lozi–Chebyshev Chaotic Map Based RDH-EI
 
 MATLAB implementation of a **Reversible Data Hiding in Encrypted Images (RDH-EI)** scheme using the proposed **2D Lozi–Chebyshev Chaotic Map (2D-LCM)** and **Daubechies 5/3 Integer Wavelet Transform (IWT)**.
